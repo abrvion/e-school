@@ -11,9 +11,10 @@ This is a static, sleek, modern e-education web project called e-school for an o
 - All device responsiveness and design clarity with CSS media queries
 - Clean code and reusable blocks
 - code commented and easy to maintain
+- Psd to Html  
 
 ## Tech Stack 🚀
-- HTML5
+- HTML5  
 - CSS3
 - Bootstrap
 
